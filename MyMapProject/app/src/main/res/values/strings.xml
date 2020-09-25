@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyMapProject</string>
+    <string name="google_map_api_key">AIzaSyCaTpwiRTUdAUPw4Y2htJ8rZ6nLHYzuxMI</string>
+    <string name="open_gl_es_version">0x00020000</string>
+</resources>
